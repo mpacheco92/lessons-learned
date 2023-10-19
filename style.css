@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+#cabecalho {
+    background-color: green;
+    padding: 10px;
+    margin: 0 auto;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+
 body {
     background-color: rgb(253, 251, 251);
 }
@@ -17,15 +26,17 @@ main {
     width: 200px;
 }
 
+.titulo-licoes {
+    display: inline;
+    padding: 0;
+}
+
 #licoes_aprendidas {
     margin-left: 22px;
 }
 
-#cabecalho {
-    background-color: green;
-    padding: 10px;
-    margin: 0 auto;
-    position: sticky;
-    top: 0;
-    text-align: center;
+.licoes {
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 50px;
 }
