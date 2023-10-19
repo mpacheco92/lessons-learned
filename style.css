@@ -17,6 +17,10 @@ main {
     width: 200px;
 }
 
+#licoes_aprendidas {
+    margin-left: 22px;
+}
+
 #cabecalho {
     background-color: green;
     padding: 10px;
