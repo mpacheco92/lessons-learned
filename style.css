@@ -14,6 +14,7 @@
 
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Roboto Condensed', sans-serif;;
 }
 
 #titulo {
@@ -72,6 +73,11 @@ main {
 #experiencia {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+#para-exp {
+    font-size: 15px;
+    line-height: 20px;
 }
 
 table {
