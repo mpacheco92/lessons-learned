@@ -59,6 +59,13 @@ main {
     margin-right: 50px;
 }
 
+#experiencia {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* text-align: center; */
+}
+
 #rodape {
     text-align: center;
+    margin-bottom: 20px;
 }
