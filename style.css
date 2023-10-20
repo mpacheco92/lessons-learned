@@ -23,11 +23,16 @@ body {
 
 #descricao {
     display: inline-block;
-    float: right;
-    border: 2px solid red;
+    background-color: lightgreen;
+    border-radius: 50px;
     width: 300px;
-    height: 73px;
-    margin-right: 0;
+    height: 120px;
+    margin-top: 21px;
+    padding: 30px;
+}
+
+.lado-direito {
+    float: right;
 }
 
 main {
@@ -72,7 +77,13 @@ main {
 
 #experiencia {
     margin-top: 50px;
-    margin-bottom: 50px;
+    display: inline-block;
+    width: 700px;
+    margin-right: 200px;
+}
+
+.lado-esquerdo {
+    float: left;
 }
 
 #para-exp {
