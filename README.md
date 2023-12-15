@@ -39,4 +39,6 @@ Para rodar os testes, rode o seguinte comando:
 ```bash
   npm run cypress:open
 ```
+<br>
 
+Você também pode conferir o projeto online por [este link](https://mpacheco92.github.io/lessons-learned/) 🌐
