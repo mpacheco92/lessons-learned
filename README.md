@@ -42,6 +42,4 @@ Para rodar os testes, rode o seguinte comando:
 ```
 <br>
 
-Você também pode conferir o projeto online por [este link](https://mpacheco92.github.io/lessons-learned/){:target="_blank"}
-<a href="https://mpacheco92.github.io/lessons-learned/" target="_blank">este link</a>
-
+Você também pode conferir o projeto online por [este link](https://mpacheco92.github.io/lessons-learned/) 🌐
