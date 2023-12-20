@@ -35,10 +35,13 @@ Instale as dependências
 
 ## Rodando os testes:
 
-Para rodar os testes, rode o seguinte comando:
+Para rodar os testes, rode os seguintes comandos:
 
 ```bash
   npm run cypress:open
+```
+```bash
+  npm run lint:styles
 ```
 <br>
 
