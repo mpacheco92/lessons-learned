@@ -42,4 +42,4 @@ Para rodar os testes, rode o seguinte comando:
 ```
 <br>
 
-Você também pode conferir o projeto online por [este link](https://mpacheco92.github.io/lessons-learned/) 🌐
+Você também pode conferir o projeto online por [este link](https://mpacheco92.github.io/pixels-art/) 🌐
